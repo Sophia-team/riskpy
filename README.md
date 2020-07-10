@@ -2,7 +2,7 @@
 riskpy is a python package with usefull tools for risk analysts, validators and any other people who build and check statistical models
 
 ## Installation
-pip install git+https://github.com/Falconwatch/riskpy.git@master
+pip install git+https://github.com/Sophia-team/riskpy.git@master
 
 ### Dependencies
 
@@ -17,13 +17,13 @@ Statsmodels (>= 0.8.0)
 ## Development
 
 ### Important links
-Official source code repo: https://github.com/Falconwatch/riskpy
+Official source code repo: https://github.com/Sophia-team/riskpy
 Download releases: unavailable
-Issue tracker: https://github.com/Falconwatch/riskpy/issues
+Issue tracker: https://github.com/Sophia-team/riskpy/issues
 
 ### Source code
 You can check the latest sources with the command:
-git clone https://github.com/Falconwatch/riskpy.git
+git clone https://github.com/Sophia-team/riskpy.git
 
 ## Project History
 Project was started in 2017
